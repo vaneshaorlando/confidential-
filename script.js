@@ -42,7 +42,7 @@ const loadingSteps = [
 ["Calming Down...",88],
 ["Please Wait...",92],
 ["Taking a deep breath...",97],
-["HUUFFFTTTTT...",100],
+["(a bit shaking but it's okay)",100],
 ["Ready!.",100]
 ];
 
