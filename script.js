@@ -19,7 +19,7 @@ const bootLines = [
 "",
 "Initializing ...",
 "",
-"Removing Nervous...",
+"Removing Nervous Feelings...",
 "",
 "WARNING!!!",
 "",
@@ -49,41 +49,41 @@ const loadingSteps = [
 const storyLines = [
 "Hello, Ms Independent.",
 
-"Can I borrow\na few minutes\nof your time?",
+"can i borrow\na few minutes\nof your time?",
 
-"You know...\nI've been wondering\nfor quite a while\nwhether I should\ntell you this\nor keep it to myself.",
+"you know...\ni've been wondering\nfor quite a while\nwhether i should\ntell you this\nor keep it to myself.",
 
-"I guess...\nthat's why\nI ended up\nmaking\nan entire website.",
+"i guess...\nthat's why\ni ended up\nmaking\nan entire website.",
 
-"I wanted to\nsay it properly...\nbecause I didn't want\nsomething this important\nto get lost\nbetween our\nusual conversations.",
+"i wanted to\nsay it properly...\nbecause i didn't want\nsomething this important\nto get lost\nbetween our\nusual conversations.",
 
-"Somewhere\nalong the way...\nwithout me\neven realizing it...", 
+"somewhere\nalong the way...\nwithout me\neven realizing it...", 
 
 "you quietly\nbecame someone\nvery special\nto me.",
 
-"It wasn't\none big moment.",
+"it wasn't\none big moment.",
 
-"It was\nall the\nlittle things.",
+"it was\nall the\nlittle things.",
 
-"Somewhere between...\n'Stay hydrated.'\n'Eat properly.'\n'Text me when\nyou get home.'",
+"somewhere between...\n'stay hydrated.'\n'eat properly.'\n'text me when\nyou get home.'",
 
 "and quietly\nhoping\nyou were finally\ngetting enough rest...", 
 
-"I realized\nI wasn't doing\nthose things\nbecause I had to.",
+"i realized\ni wasn't doing\nthose things\nbecause i had to.",
 
-"I was doing them...\nbecause\nI genuinely\nwanted to.",
+"i was doing them...\nbecause\ni genuinely\nwanted to.",
 
-"Then...\nI caught myself\nthinking about you\nmore often\nthan I used to.",
+"then...\ni caught myself\nthinking about you\nmore often\nthan i used to.",
 
-"Even on\nmy busiest days...\nyou'd randomly\ncross my mind.",
+"even on\nmy busiest days...\nyou'd randomly\ncross my mind.",
 
-"I'd wonder...\nhow work\nwas treating you...", 
+"i'd wonder...\nhow work\nwas treating you...", 
 
 "whether\nyou'd eaten yet...", 
 
 "or if\nyou were still\npushing yourself\ntoo hard.",
 
-"And what\nsurprised me\nthe most...", 
+"and what\nsurprised me\nthe most...", 
 
 "whenever\nI imagined\nmy future...", 
 
@@ -95,77 +95,69 @@ const storyLines = [
 
 "you were\nsomehow\nalready there.",
 
-"Not because\nI was trying\nto put you there...", 
+"not because\ni was trying\nto put you there...", 
 
 "you just...\nwere.",
 
-"Then...\nit finally\nmade sense.",
+"then...\nit finally\nmade sense.",
 
-"I like you,\nJes.",
+"i like you,\nJes.",
 
-"Not because\nyou're always\ncheerful.",
+"not because\nyou're always\ncheerful.",
 
-"Not because\nyou always\nhave everything\nfigured out.",
+"not because\nyou always\nhave everything\nfigured out.",
 
-"I like\nthe excited Jes.",
+"i like\nthe excited Jes.",
 
-"The tired Jes.",
+"the tired Jes.",
 
-"The exhausted Jes.",
+"the exhausted Jes.",
 
-"The overworked Jes.",
+"every version of Jes.",
 
-"Even the Jes\nwho sometimes\nwonders\nif she's really\nworth all\nthis love.",
+"even the Jes\nwho sometimes\nwonders\nif she's really\nworth all\nthis love.",
 
-"Those weren't\nthe parts\nthat pushed\nme away.",
+"those weren't\nthe parts\nthat pushed\nme away.",
 
-"They were\nthe parts\nthat made me\nadmire you\neven more.",
+"they were\nthe parts\nthat made me\nadmire you\neven more.",
 
-"And...\nthere's one more\nthing I hope\nyou know.",
+"and...\nthere's one more\nthing i hope\nyou know.",
 
-"You didn't\njust become\nsomeone\nI care about.",
+"you didn't\njust become\nsomeone\ni care about.",
 
-"You also\nbecame someone\nwho quietly\nbrought me\ncloser to God.",
+"you also\nbecame someone\nwho quietly\nbrought me\ncloser to God.",
 
-"I don't know\nif you ever\nrealized that...", 
+"i don't know\nif you ever\nrealized that...", 
 
-"but I'll\nalways be\ngrateful\nfor it.",
+"but i'll\nalways be\ngrateful\nfor it.",
 
-"So...\nI just wanted\nto be honest.",
+"so...\ni just wanted\nto be honest.",
 
-"I like you,\nJes...",
+"i'm not\nasking you\nfor an answer\ntoday.",
 
-"I'm not\nasking you\nfor an answer\ntoday.",
+"and i'm\nnot trying\nto put\nany pressure\non you.",
 
-"And I'm\nnot trying\nto put\nany pressure\non you.",
-
-"I simply felt...\nif someone\nhad come\nto mean\nthis much\nto me...", 
+"i simply felt...\nif someone\nhad come\nto mean\nthis much\nto me...", 
 
 "she deserved\nto know.",
 
-"If you're\ncomfortable\nsharing someday...", 
+"but if you're\ncomfortable\nsharing someday...", 
 
-"I'd genuinely\nlove to know...", 
+"i'd genuinely\nlove to know...", 
 
-"How do\nyou see us?",
+"whatever\nyour answer\nis...", 
 
-"Have I\nsimply been\na friend...", 
+"i'll\nrespect it\nwholeheartedly.",
 
-"or did\nI ever have\na small chance\nto be\nsomething more?",
-
-"Whatever\nyour answer\nis...", 
-
-"I'll\nrespect it\nwholeheartedly.",
-
-"If you only\nsee me\nas a friend...", 
+"if you only\nsee me\nas a friend...", 
 
 "or if\nyour heart\nalready belongs\nto someone else...", 
 
-"I'll still\nbe grateful\nthat our paths\ncrossed.",
+"i'll still\nbe grateful\nthat our paths\ncrossed.",
 
-"I just...\ndidn't want\nhonesty\nto arrive\ntoo late.",
+"i just...\ndidn't want\nhonesty\nto arrive\ntoo late.",
 
-"Thank you...\nfor pressing\nSTART. 🤍"
+"thank you...\nfor pressing\nSTART. 🤍"
 
 ];
 
