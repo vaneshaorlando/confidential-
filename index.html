@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Memory.exe</title>
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+<link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
+
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<div id="app">
+
+    <!-- Boot Screen -->
+    <section id="boot" class="screen active">
+
+        <div id="bootText" class="terminal"></div>
+
+        <button id="startBtn" class="pixel-btn hidden">
+            ▶ START
+        </button>
+
+    </section>
+
+
+    <!-- Loading Screen -->
+    <section id="loading" class="screen">
+
+        <div id="loadingText" class="terminal"></div>
+
+        <div class="progress-container">
+            <div id="progressBar"></div>
+        </div>
+
+        <button id="enterBtn" class="pixel-btn hidden">
+            ▶ PRESS ENTER
+        </button>
+
+    </section>
+
+
+    <!-- Story Screen -->
+    <section id="story" class="screen">
+
+        <div id="storyText" class="story-text"></div>
+
+        <div id="nextIndicator" class="indicator hidden">
+            ▼
+        </div>
+
+    </section>
+
+
+    <!-- Ending Screen -->
+    <section id="ending" class="screen">
+
+        <div class="ending-content">
+
+            <p class="ending-line">
+                
+            </p>If you can see me right now, im kinda sweating and shaking.. hahaha..
+
+            <p class="ending-line">
+                thank you
+                for taking the time
+                to read all of this.
+            </p>
+
+            <p class="ending-line">
+                please know
+                there is no pressure
+                to answer today.
+            </p>
+
+            <p class="ending-line">
+                or tomorrow.
+            </p>
+
+            <p class="ending-line">
+                this confession
+                isn't meant
+                to become
+                a burden.
+            </p>
+
+            <p class="ending-line">
+                i simply wanted
+                to be honest.
+            </p>
+
+            <p class="ending-line">
+                because meeting you
+                has already become
+                something
+                i'm grateful for.
+            </p>
+
+            <p class="ending-line">
+                no matter
+                what happens next,
+            </p>
+
+            <p class="ending-line">
+                i hope
+                we can still
+                enjoy each other
+                when we talk.
+            </p>
+
+            <p class="ending-line">
+                Thank you
+                for being you.
+            </p>
+
+            <p class="thanks">
+                Thank you for reading this random website🤍
+            </p>
+
+        </div>
+
+    </section>
+
+</div>
+
+<script src="script.js"></script>
+
+</body>
+</html>
