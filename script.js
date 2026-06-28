@@ -38,7 +38,7 @@ const loadingSteps = [
 ["Courage not found.",52],
 ["........",60],
 ["Checking Heartbeat...",72],
-["Result : Hertbeat TOO FAST",82],
+["Result : Heartbeat TOO FAST",82],
 ["Calming Down...",88],
 ["Please Wait...",92],
 ["Taking a deep breath...",97],
